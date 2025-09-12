@@ -10,19 +10,19 @@ This is a sample API to demonstrate an OpenAPI spec with multiple endpoints and 
 Run the following command to install the package and automatically add the dependency to your composer.json file:
 
 ```bash
-composer require "gallagher-suarez-traders/wesley-key-sdk:1.1.2"
+composer require "gallagher-suarez-traders/wesley-key-sdk:1.1.3"
 ```
 
 Or add it to the composer.json file manually as given below:
 
 ```json
 "require": {
-    "gallagher-suarez-traders/wesley-key-sdk": "1.1.2"
+    "gallagher-suarez-traders/wesley-key-sdk": "1.1.3"
 }
 ```
 
 You can also view the package at:
-https://packagist.org/packages/gallagher-suarez-traders/wesley-key-sdk#1.1.2
+https://packagist.org/packages/gallagher-suarez-traders/wesley-key-sdk#1.1.3
 
 ## Test the SDK
 
